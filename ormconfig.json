@@ -1,10 +1,10 @@
 {
   "type": "mysql",
-  "host": "10.147.17.30",
-  "port": 3306,
+  "host": "10.147.17.118",
+  "port": 3307,
   "username": "root",
   "password": "password",
-  "database": "test",
+  "database": "dev-spellcard",
   "entities": ["dist/**/*.entity{.ts,.js}"],
   "synchronize": true
 }
